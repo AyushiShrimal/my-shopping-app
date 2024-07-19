@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Lipstick",
+      "price": 19.99,
+      "image": "/images/lipstick.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Foundation",
+      "price": 29.99,
+      "image": "/images/foundation.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Eyeliner",
+      "price": 9.99,
+      "image": "/images/eyeliner.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mascara",
+      "price": 14.99,
+      "image": "/images/mascara.jpg"
+    }
+  ]
+  
